@@ -34,7 +34,7 @@ I'm genuinely up for it. Hit me on LinkedIn, I respond.
 
 **Me reviewing my own code after 2 days**
 
-![Higuruma](https://media.tenor.com/MHIiNH_GqMoAAAAC/higuruma-jjk.gif)
+![Higuruma](./higuruma-hiromi.gif)
 
 **My brain at 2am debugging**
 
