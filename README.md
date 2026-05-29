@@ -30,15 +30,11 @@ I'm genuinely up for it. Hit me on LinkedIn, I respond.
 
 **When I finally figure out why the code wasn't running**
 
-![Pikachu](https://media.giphy.com/media/6nWhy3ulBL7GSCvKw6/giphy.gif)
-
-**Me reviewing my own code after 2 days**
-
 ![Higuruma](./higuruma-hiromi.gif)
 
 **My brain at 2am debugging**
 
-![Cat](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+![Cat](./cf1eb5ae90533c39b6b5bba02b247506.gif)
 
 ---
 
