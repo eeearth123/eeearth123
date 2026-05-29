@@ -32,8 +32,6 @@ I'm genuinely up for it. Hit me on LinkedIn, I respond.
 
 ![Higuruma](./higuruma-hiromi.gif)
 
-**My brain at 2am debugging**
-
 ![Cat](./cf1eb5ae90533c39b6b5bba02b247506.gif)
 
 ---
